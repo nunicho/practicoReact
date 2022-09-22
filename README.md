@@ -1,3 +1,8 @@
+# EJERCICIOS 1 a 3 TP REACT
+
+# Autor: Mauricio Javier Alonso
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
